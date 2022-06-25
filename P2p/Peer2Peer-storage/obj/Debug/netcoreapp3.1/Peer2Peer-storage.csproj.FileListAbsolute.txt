@@ -1,0 +1,126 @@
+C:\Users\Lukas-PC\source\repos\Peer2Peer-storage\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.exe
+C:\Users\Lukas-PC\source\repos\Peer2Peer-storage\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.deps.json
+C:\Users\Lukas-PC\source\repos\Peer2Peer-storage\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.runtimeconfig.json
+C:\Users\Lukas-PC\source\repos\Peer2Peer-storage\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.runtimeconfig.dev.json
+C:\Users\Lukas-PC\source\repos\Peer2Peer-storage\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.dll
+C:\Users\Lukas-PC\source\repos\Peer2Peer-storage\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.pdb
+C:\Users\Lukas-PC\source\repos\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.csproj.AssemblyReference.cache
+C:\Users\Lukas-PC\source\repos\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lukas-PC\source\repos\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.AssemblyInfoInputs.cache
+C:\Users\Lukas-PC\source\repos\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.AssemblyInfo.cs
+C:\Users\Lukas-PC\source\repos\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.csproj.CoreCompileInputs.cache
+C:\Users\Lukas-PC\source\repos\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.dll
+C:\Users\Lukas-PC\source\repos\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.pdb
+C:\Users\Lukas-PC\source\repos\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.genruntimeconfig.cache
+C:\Users\step\Desktop\Peer2Peer-storage\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.exe
+C:\Users\step\Desktop\Peer2Peer-storage\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.deps.json
+C:\Users\step\Desktop\Peer2Peer-storage\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.runtimeconfig.json
+C:\Users\step\Desktop\Peer2Peer-storage\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.runtimeconfig.dev.json
+C:\Users\step\Desktop\Peer2Peer-storage\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.dll
+C:\Users\step\Desktop\Peer2Peer-storage\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.pdb
+C:\Users\step\Desktop\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.csproj.AssemblyReference.cache
+C:\Users\step\Desktop\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\step\Desktop\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.AssemblyInfoInputs.cache
+C:\Users\step\Desktop\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.AssemblyInfo.cs
+C:\Users\step\Desktop\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.csproj.CoreCompileInputs.cache
+C:\Users\step\Desktop\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.dll
+C:\Users\step\Desktop\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.pdb
+C:\Users\step\Desktop\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.genruntimeconfig.cache
+C:\Users\Lukas\Desktop\Files\Chastag\Peer2Peer-storage (1)\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.csproj.AssemblyReference.cache
+C:\Users\Lukas\Desktop\Files\Chastag\Peer2Peer-storage (1)\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lukas\Desktop\Files\Chastag\Peer2Peer-storage (1)\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.AssemblyInfoInputs.cache
+C:\Users\Lukas\Desktop\Files\Chastag\Peer2Peer-storage (1)\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.AssemblyInfo.cs
+C:\Users\Lukas\Desktop\Files\Chastag\Peer2Peer-storage (1)\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\Desktop\Files\Chastag\Peer2Peer-storage (1)\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.dll
+C:\Users\Lukas\Desktop\Files\Chastag\Peer2Peer-storage (1)\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.pdb
+C:\Users\Lukas\Desktop\Files\Chastag\Peer2Peer-storage (1)\Peer2Peer-storage\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.exe
+C:\Users\Lukas\Desktop\Files\Chastag\Peer2Peer-storage (1)\Peer2Peer-storage\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.deps.json
+C:\Users\Lukas\Desktop\Files\Chastag\Peer2Peer-storage (1)\Peer2Peer-storage\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.runtimeconfig.json
+C:\Users\Lukas\Desktop\Files\Chastag\Peer2Peer-storage (1)\Peer2Peer-storage\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.runtimeconfig.dev.json
+C:\Users\Lukas\Desktop\Files\Chastag\Peer2Peer-storage (1)\Peer2Peer-storage\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.dll
+C:\Users\Lukas\Desktop\Files\Chastag\Peer2Peer-storage (1)\Peer2Peer-storage\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.pdb
+C:\Users\Lukas\Desktop\Files\Chastag\Peer2Peer-storage (1)\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.genruntimeconfig.cache
+D:\STEP\Peer2Peer-storage\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.exe
+D:\STEP\Peer2Peer-storage\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.deps.json
+D:\STEP\Peer2Peer-storage\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.runtimeconfig.json
+D:\STEP\Peer2Peer-storage\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.runtimeconfig.dev.json
+D:\STEP\Peer2Peer-storage\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.dll
+D:\STEP\Peer2Peer-storage\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.pdb
+D:\STEP\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.csproj.AssemblyReference.cache
+D:\STEP\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.GeneratedMSBuildEditorConfig.editorconfig
+D:\STEP\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.AssemblyInfoInputs.cache
+D:\STEP\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.AssemblyInfo.cs
+D:\STEP\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.csproj.CoreCompileInputs.cache
+D:\STEP\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.dll
+D:\STEP\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.pdb
+D:\STEP\Peer2Peer-storage\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.genruntimeconfig.cache
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.exe
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.deps.json
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.runtimeconfig.json
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.runtimeconfig.dev.json
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.dll
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.pdb
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.csproj.AssemblyReference.cache
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.AssemblyInfoInputs.cache
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.AssemblyInfo.cs
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.dll
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.pdb
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.genruntimeconfig.cache
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.dll.config
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.csproj.CopyComplete
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\DotNetZip.dll
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Lukas\Desktop\Files\Chastag\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.exe
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.dll.config
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.deps.json
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.runtimeconfig.json
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.runtimeconfig.dev.json
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.dll
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Peer2Peer-storage.pdb
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\DotNetZip.dll
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.csproj.AssemblyReference.cache
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.AssemblyInfoInputs.cache
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.AssemblyInfo.cs
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.csproj.CoreCompileInputs.cache
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.csproj.CopyComplete
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.dll
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.pdb
+C:\Users\Lukas-PC\Desktop\SOUBORY\Škola\PV\p2p\Peer2Peer-storage\obj\Debug\netcoreapp3.1\Peer2Peer-storage.genruntimeconfig.cache
