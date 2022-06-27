@@ -14,3 +14,9 @@ Když si chceme soubor stáhnout, stáhneme si všehchny koušíčky ze všech z
 * delete - smaže části souborů ze všech node
 * settings - možnost nastavení portu aplikace a maximálního čísla do kolika zařízení se může jeden soubor poslat(v konfiguračním souboru App.config jde nastavit ip adresy bootNode)
 * exit - vypnutí aplikace
+
+---
+# Ukázka aplikace
+
+![Console](https://github.com/lukas8092/peer-to-peer-zaverecny-projekt/blob/main/P2p/git_imgs/console1.png)
+![Console](https://github.com/lukas8092/peer-to-peer-zaverecny-projekt/blob/main/P2p/git_imgs/console2.png)
